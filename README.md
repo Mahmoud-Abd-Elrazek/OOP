@@ -2,7 +2,15 @@
 Welcome to the **OOP** repository! This repository aims to demonstrate Object-Oriented Programming (OOP) principles in C++ through practical, real-world projects. It serves as an educational resource for students to understand and apply OOP concepts effectively.
 
 ## Projects Included
-1. **Library Management System**
+1. **Simple Library System**
+    There is a number of (Printed,Music...) books. this project application for
+    Simple program to manage a library system where we have a different types of book.
+    Certainly! Here's a comprehensive example in C++ that illustrates all key OOP concepts: 
+       - classes and objects
+       - encapsulation 
+       - inheritance
+       - polymorphism
+       - abstraction
    
 ## Getting Started
 To get started with these projects:
